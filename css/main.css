@@ -38,7 +38,7 @@ a{
 	margin-top: 5%;
 }
 .soft{
-	font-family: Baloo Paaji;
+	font-family:'Baloo Paaji';
 	font-size: 5em;
 	color: red;
 }
@@ -77,3 +77,144 @@ a{
 	font-size: 0.8em;
 	color: white;	
 }
+.fondo-azul{	
+	background:#0477A1;
+	width: 960px;
+    padding-left: 14px;
+    padding-right: 14px;
+    margin: 0px auto;
+}
+
+.f-blanco1{
+	background:#FFFFFF; 
+	width: 520px;
+	margin-top: 28px;
+	height: 567px;
+}
+
+
+.conejo1{
+	width: 520px;
+	padding-top: 0px;
+}
+
+.h1-conejo1{
+	    font-size: 21px;
+	    color:#F75AA6;
+}
+
+.p-conejo1{
+	color: #060606;
+	text-align: left;
+	
+}
+/*-------------------------------------*/
+    
+.f-blanco2{
+	background:#FFFFFF; 
+	width: 400px;
+    margin: 52px;
+	
+}
+
+.conejo2{
+	padding-left: 0px;
+    width: 400px;
+}
+
+.h1-conejo2{
+	font-size: 21px;
+	color:#F75AA6;
+
+}
+
+.p-conejo2{
+	color: #060606;
+	text-align: left;
+	height: 102px;
+	
+
+}
+/*-------------------------------*/
+
+.f-blanco2{
+	background:#FFFFFF; 
+	width: 400px;
+    margin: 52px;
+	
+}
+
+.p-conejo3{
+	color: #060606;
+	text-align: left;
+	
+}
+
+.conejo4{
+	width: 400px;
+    
+}
+
+.h1-conejo4{
+	 font-size: 21px;
+	 color:#F75AA6;
+}
+
+.p-conejo4{
+	color: #060606;
+	text-align:left;
+	
+
+
+}
+
+
+
+iframe{
+	width: 100%;
+
+
+}
+
+.video{
+	
+	background-color:#FFFFFF;
+	width: 108%;
+	
+
+}
+
+.input-border{
+	width: 395px;
+	margin-top: 28px;
+	margin-left: 50px;
+	background:#FFFFFF; 
+    margin-bottom: 10px;
+}
+
+.ico{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	height: 50px;
+    width: 285px;
+}
+
+
+ 
+ .conejoBunny{
+ 	width: 130px;
+ 	float: left;
+ } 
+
+ .container-cabecera{
+ 	background-color:#0477A1;
+
+ }  
+
+ .parrafo6{
+ 	color: #FFFFFF;
+	text-align: center;
+	height: 35px;
+
+
+ }
