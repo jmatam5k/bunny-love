@@ -38,7 +38,7 @@ a{
 	margin-top: 5%;
 }
 .soft{
-	font-family: Baloo Paaji;
+	font-family: 'Baloo Paaji';
 	font-size: 5em;
 	color: red;
 }
@@ -58,22 +58,51 @@ a{
 	height: 360px;
 	width: 22%;
 	margin: 2% 1%;
-    background-color: #0477A1;
+    background-color: #0477A1; 	
+    
 }
-.conejo{
-	width: 100%;
-	height: auto;
+.caja1{
+	background-size: 205px;
+	background-repeat: no-repeat;  	
+	background-image: url(../img/img-1.jpg);
+	padding-top: 13%;
 }
-
+.caja2{
+	background-size: 206px;
+	background-repeat: no-repeat;  	
+	background-image: url(../img/img-2.jpg);
+	padding-top: 13%;
+}
+.caja3{
+	background-size: 205px;
+	background-repeat: no-repeat;  	
+	background-image: url(../img/img-3.jpg);
+	padding-top: 13%;
+}
+.caja4{
+	background-size: 205px;
+	background-repeat: no-repeat;  	
+	background-image: url(../img/img-4.jpg);
+	padding-top: 13%;
+}
 .titred{
 	font-family: 'Baloo Paaji';
 	color: red;	
 	text-align: center;
-	font-size: 1em;
-
+	font-size: 14px;
 }
 .textconejin{
-	font-family: 'Baloo Paaji', 'Prompt';
-	font-size: 0.8em;
+	font-family: 'Prompt','Baloo Paaji';
+	font-size: 13px;
 	color: white;	
+}
+.pie{
+	background-color: #0477A1;
+	width: 100%;
+	height: 90px;
+}
+.ppie{
+	padding: 3%;
+	padding-left: 43%;	
+	color:white;
 }

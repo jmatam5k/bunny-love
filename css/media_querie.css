@@ -1,13 +1,5 @@
-@media (min-width: 420px)and (max-width: 825px) {
+@media (max-width: 825px) {
 	
-	header{
-		width: 50%
-	}
-	[class*="col-" ]{
-        width: 100%;
-    }
-    .container{
-        width: 100%;
-    }
+	
 
 }
